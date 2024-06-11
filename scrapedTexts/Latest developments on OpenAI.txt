@@ -1,0 +1,97 @@
+MARY LOUISE KELLY, HOST:
+
+Yet another version of ChatGPT is on the way, and it is expected to be even more powerful, even more human-like. Recent moves by the company have raised concerns about the technology's potential dangers to society and highlighted how few guidelines are reining them in. For more, we are joined by NPR's Bobby Allyn. Hi, Bobby.
+
+BOBBY ALLYN, BYLINE: Hey, Mary Louise.
+
+KELLY: OK. Another version of ChatGPT dropping, which is interesting because, at the same time, there's been this big push for the company to slow down - can you talk about that tension?
+
+ALLYN: Yeah. We know by now that OpenAI is kind of the pacesetting AI company in Silicon Valley with, of course, ChatGPT and Dall-E and its other services. When they do something, the world watches. But recently, two big things happened.
+
+One, the company dissolved the team that was studying so-called alignment, and that's tech lingo for making sure superintelligent AIs are aligned with human goals - in short, safety. Shutting that team down, Mary Louise, hit like a lightning bolt. I mean, it sparked all sorts of criticism online among AI researchers.
+
+And then secondly, some former members of that team broke the usual secrecy around OpenAI and spoke out against the company. One former executive said safety has taken a backseat to so-called shiny products.
+
+Now, to quell the critics, OpenAI, this week, said it was putting together a safety and security committee that will focus on ways to prevent AI from being abused as a tool for impersonating people and spreading disinformation online and preventing all sorts of other harms.
+
+KELLY: I will note that OpenAI is hardly the only tech company grappling with these challenges. But how - tell me more about how this has played out specifically at OpenAI.
+
+ALLYN: Yeah. You know, it's really a tension at the heart of the company since it was founded as a nonprofit research lab and then, of course, became this hypercompetitive player in Silicon Valley. Jump ahead to last year, and these tensions really came to a head when CEO Sam Altman was briefly ousted from the company and then brought back over issues including whether safety was a company priority.
+
+Since Altman's return, though, the questions have just gotten even more pronounced. The new committee that's set to examine safety is going to be led by Sam Altman, and some were skeptical about that. I talked to leading AI researcher - his name is De Kai. He teaches computer science at Hong Kong University. And, you know, he's sympathetic to that pushback but says there are currently no federal rules, so companies are governing themselves.
+
+DE KAI: There are no clear guidelines. There is no level playing field. And we certainly don't want to be putting unelected tech executives in charge of making those crucial decisions for our society at large.
+
+ALLYN: Yeah. De Kai says there needs to be some kind of government intervention to set the rules of the road for AI companies. He puts it in pretty dire terms.
+
+DE KAI: Tackling these trade-offs in a conscious way is the single most important thing that humanity, that society, that democracy, has to do urgently.
+
+KELLY: Well, until somebody tackles these trade-offs, until, say, Congress acts, what is - where does this leave us with this latest version of ChatGPT?
+
+ALLYN: Yeah. I mean, it means that OpenAI and really all AI companies can do whatever they want. I mean, we saw the capabilities of the latest ChatGPT recently. It can replicate human behavior, right? It scans human faces for emotions. It can determine what room you're standing in. It can make jokes. It's really incredible. And OpenAI says an even fancier version is on the way.
+
+At the same time, we're seeing abuses. Scammers are using it. Malicious actors are using AI to impersonate voices. And many are wondering whether they can trust OpenAI, right? And when actress Scarlett Johansson recently accused OpenAI of copying her voice in a ChatGPT personal assistant, that certainly hurt the company's image as a...
+
+KELLY: Right.
+
+ALLYN: ...Trustworthy company. And just a couple days ago, Mary Louise, two former board members of OpenAI wrote a piece in The Economist that said, for humanity's sake, AI regulation is needed to tame market forces. So those calls are certainly getting louder.
+
+KELLY: Getting louder. NPR's Bobby Allyn. Transcript provided by NPR, Copyright NPR.
+
+NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.
+
+by WAN-IFRA External Contributor info@wan-ifra.org | June 3, 2024
+
+This story was first published by Press Gazette, written by Charlotte Tobitt. It is republished here with permission.
+
+It is “incumbent” on OpenAI to make sure smaller publishers get the same potential benefits from platforms like ChatGPT as large dominant names, its chief of intellectual property and content has said.
+
+Tom Rubin also clarified a common misconception about the partnerships being signed between OpenAI and news publishers: they are “largely not” about training but are instead focused on the display of news content and use of the tools and tech.
+
+Rubin was speaking at the WAN-IFRA World News Media Congress in Copenhagen on the same day OpenAI announced “strategic content and product partnerships” with both The Atlantic and Vox Media, following in the footsteps of other large publishers including News Corp, Dotdash Meredith, the Financial Times and Axel Springer.
+
+OpenAI also revealed a partnership with WAN-IFRA to train teams from 128 newsrooms in Europe, Asia Pacific, Latin America and South Asia in using AI tools.
+
+Rubin, formerly chief intellectual property strategy counsel at Microsoft, said it was “very important” that resources “don’t just go to large companies but that small, independent publications have the ability to learn and leverage the technology”.
+
+He said despite OpenAI’s multiple partnerships so far “one of the things that we were very focused on is ensuring that the opportunity exists more broadly”.
+
+Online influence operations based in Russia, China, Iran, and Israel are using artificial intelligence in their efforts to manipulate the public, according to a new report from OpenAI.
+
+Bad actors have used OpenAI’s tools, which include ChatGPT, to generate social media comments in multiple languages, make up names and bios for fake accounts, create cartoons and other images, and debug code.
+
+OpenAI’s report is the first of its kind from the company, which has swiftly become one of the leading players in AI. ChatGPT has gained more than 100 million users since its public launch in November 2022.
+
+But even though AI tools have helped the people behind influence operations produce more content, make fewer errors, and create the appearance of engagement with their posts, OpenAI says the operations it found didn’t gain significant traction with real people or reach large audiences. In some cases, the little authentic engagement their posts got was from users calling them out as fake.
+
+“These operations may be using new technology, but they're still struggling with the old problem of how to get people to fall for it,” said Ben Nimmo, principal investigator on OpenAI’s intelligence and investigations team.
+
+That echoes Facebook owner Meta’s quarterly threat report published on Wednesday. Meta's report said several of the covert operations it recently took down used AI to generate images, video, and text, but that the use of the cutting-edge technology hasn’t affected the company’s ability to disrupt efforts to manipulate people.
+
+The boom in generative artificial intelligence, which can quickly and easily produce realistic audio, video, images and text, is creating new avenues for fraud, scams and manipulation. In particular, the potential for AI fakes to disrupt elections is fueling fears as billions of people around the world head to the polls this year, including in the U.S., India, and the European Union.
+
+In the past three months, OpenAI banned accounts linked to five covert influence operations, which it defines as “attempt[s] to manipulate public opinion or influence political outcomes without revealing the true identity or intentions of the actors behind them.”
+
+That includes two operations well known to social media companies and researchers: Russia’s Doppelganger and a sprawling Chinese network dubbed Spamouflage.
+
+Doppelganger, which has been linked to the Kremlin by the U.S. Treasury Department, is known for spoofing legitimate news websites to undermine support for Ukraine. Spamouflage operates across a wide range of social media platforms and internet forums, pushing pro-China messages and attacking critics of Beijing. Last year, Facebook owner Meta said Spamouflage is the largest covert influence operation it's ever disrupted and linked it to Chinese law enforcement.
+
+Both Doppelganger and Spamouflage used OpenAI tools to generate comments in multiple languages that were posted across social media sites. The Russian network also used AI to translate articles from Russian into English and French and to turn website articles into Facebook posts.
+
+The Spamouflage accounts used AI to debug code for a website targeting Chinese dissidents, to analyze social media posts, and to research news and current events. Some posts from fake Spamouflage accounts only received replies from other fake accounts in the same network.
+
+Another previously unreported Russian network banned by OpenAI focused its efforts on spamming the messaging app Telegram. It used OpenAI tools to debug code for a program that automatically posted on Telegram, and used AI to generate the comments its accounts posted on the app. Like Doppelganger, the operation's efforts were broadly aimed at undermining support for Ukraine, via posts that weighed in on politics in the U.S. and Moldova.
+
+Another campaign that both OpenAI and Meta said they disrupted in recent months traced back to a political marketing firm in Tel Aviv called Stoic. Fake accounts posed as Jewish students, African-Americans, and concerned citizens. They posted about the war in Gaza, praised Israel’s military, and criticized college antisemitism and the U.N. relief agency for Palestinian refugees in the Gaza Strip, according to Meta. The posts were aimed at audiences in the U.S., Canada, and Israel. Meta banned Stoic from its platforms and sent the company a cease and desist letter.
+
+OpenAI said the Israeli operation used AI to generate and edit articles and comments posted across Instagram, Facebook, and X, as well as to create fictitious personas and bios for fake accounts. It also found some activity from the network targeting elections in India.
+
+None of the operations OpenAI disrupted only used AI-generated content. “This wasn't a case of giving up on human generation and shifting to AI, but of mixing the two,” Nimmo said.
+
+He said that while AI does offer threat actors some benefits, including boosting the volume of what they can produce and improving translations across languages, it doesn’t help them overcome the main challenge of distribution.
+
+“You can generate the content, but if you don't have the distribution systems to land it in front of people in a way that seems credible, then you're going to struggle getting it across,” Nimmo said. “And really what we're seeing here is that dynamic playing out.”
+
+But companies like OpenAI must stay vigilant, he added. "This is not the time for complacency. History shows that influence operations which spent years failing to get anywhere can suddenly break out if nobody's looking for them."
+
+Copyright 2024 NPR

@@ -1,0 +1,123 @@
+Artificial Intelligence (AI) is one of the major developments of our time. In particular, Machine Learning, and the implications that go with it, is shaking up many aspects of how we do things, allowing us to deploy AI software where we previously used a human or a more inefficient process. Sometimes this is to the consternation of people, particularly those who worry about AI systems and machine intelligence taking over human jobs, or perhaps the sci-fi scenario of AI being intelligent and organized enough to overrule humans.
+
+One thing we do know is that we’ve probably only scratched the surface in terms of what is possible. As Oracle EVP and head of applications, Steve Miranda said at a recent event, “Two years from now, we’ll probably be talking about a whole new set of things in this category that probably none of us is even thinking about today.”
+
+In other words, AI and its methods like Machine Learning are moving pretty fast. What we discuss today may not be what we will discuss in just a few years.
+
+AI Development Trends
+
+Since it is important to stay informed about the state of AI, here are some recent AI trends that demonstrate how the technology is advancing:
+
+AI Robots Learning Through Observation
+
+The mechanism through which AI “learns” is generally through training by humans or Machine Learning, where the bot learns by processing data by itself. For example, a bot might observe that you seem to go to the same place at the same time every day, and it may start to automatically look for traffic and weather conditions to provide you with an estimated driving time.
+
+A groundbreaking development in AI has been the development of robots’ abilities to learn through observing the actions of humans. Nvidia demonstrated a robot that performs tasks in a real-world setting by watching how the tasks are done, a different and more hands-off mechanism from how robots are usually trained.
+
+If robots can learn through observing demonstrations, this has implications, particularly for the workplace and for carrying out physical tasks. Perhaps robots of the future will be in homes, observing how household tasks are performed and taking care of those?
+
+In another development along similar lines, a bot program called AlphaGo taught itself advanced strategies for playing the game Go, with no training from humans. This is further highlighting a growing trend of AI that is able to be independent from human knowledge.
+
+AI Robot Caregivers Are Filling a Shortfall
+
+How would you feel about being cared for by a robot nurse, or your elderly relatives being cared for by robot caregivers? Many countries throughout the world are heading towards a crisis in terms of having enough carers for aging populations. Particularly, as the large baby boomer generation reaches their elderly years, the shortage is predicted to be more pronounced.
+
+Artificial Intelligence is being developed to step in and make up for the shortfall. The Japanese government, in particular, is working on increasing acceptance of technology filling in for human nursing and caregiving roles. Japan is facing a predicted shortfall of 370,000 caregivers by 2025, and developers are focusing their attention on simple applications of AI technology. For example, a robot might help a person to get out of bed, or it might predict when a patient is going to need to use the restroom.
+
+Potential resistance to help from a robot is one of the issues researchers are working on. The next research priorities include wearable mobility aid devices and technology that guides people to the restroom at what it predicts is the right time.
+
+AI Beer Brewers
+
+What if the perfect beer could be brewed using the help of AI? Okay, “perfect” is going to very much be in the eye of the beholder, but Artificial Intelligence is being used by IntelligentX to take customer feedback into account as much as possible. So technically, the beer is a product of customer experience, AI, and skilled brewers.
+
+Basically, the process works by using an algorithm that is behind a Facebook Messenger bot. The bot takes the customer feedback and passes it on to the humans who are actually brewing the beer. The technology facilitates brewers to receive that feedback quicker than they ever did before.
+
+The company places QR codes on bottles that direct customers to interact with the bot. They are then asked a series of questions, the answers to which are interpreted by the algorithm. Feedback is accumulated to spot trends and inform the brewing process. Of course, even with the advent of AI, beer brands still need to oversee the rest of their operations efficiently. That’s where a user-friendly brewery management tool like Ollie makes sense. The ability to automate and orchestrate complex operations, where precision is a lynchpin concern, goes hand in hand with enhanced customer experience.
+
+
+
+AI-Based Cybersecurity
+
+Cybersecurity has been a hot topic ever since it became necessary. As technology evolves, so do potential threats to sensitive information and networks. There has been increased demand for AI solutions to boost cybersecurity. Professionals are hoping it will accelerate incident detection, improve incident response, identify and communicate risk, and generally help them to maintain optimum situational awareness.
+
+Palo Alto Networks recently introduced Magnifier, a behavioral analytics AI solution. It models network behavior by using structured and unstructured Machine Learning to improve threat detection.
+
+There’s also Google’s parent company, Alphabet, which introduced Chronicle, a cybersecurity intelligence platform. Chronicle is a powerhouse for cybersecurity data, allowing for rapid search and discovery. The idea is that security teams already have the information they need within their systems, but it is often hidden among the millions of data centers. Machine Learning advanced search capabilities are the driver for more rapid search.
+
+AI Diagnostics for X-Rays
+
+Medical technology is a field that’s ripe for innovation from AI. Areas such as diagnostics traditionally rely on human intelligence and capabilities being able to read and interpret tests or imaging results. This naturally creates some kind of lag in processing and leaves open the possibility for human error.
+
+There are major challenges in the area of AI adoption for diagnostics. For example, the AI must be taught to correctly interpret results under human supervision, and it is difficult to teach the identification of rare pathologies, due to a shortage of images.
+
+A recent development has essentially “used Machine Learning, to do Machine Learning,” by using computer-generated x-rays to augment AI training. As Shahrokh Valaee, a Google scholar stated, “we are creating simulated x-rays that reflect certain rare conditions so that we can combine them with real x-rays to have a sufficiently large database to train the neural networks to identify these conditions in other x-rays.” This development brings the idea of AI actually taking the diagnostics role even closer.
+
+
+
+AI in Development
+
+Artificial Intelligence Trends in App Development
+
+App development is not exempt from the most recent developments in Artificial Intelligence. Developers are using new and powerful AI tools to enhance the app development process as well as the User Experience. These are some of the most important ways in which Artificial Intelligence is impacting app development:
+
+AI in Smartphone Apps
+
+AI is making an appearance in a broad range of smartphone apps that are designed for everyday consumers. Gartner predicts that by 2022, 80% of smartphones will be equipped with on-device AI capabilities (compared to the 10% that have these capabilities right now). This makes Artificial Intelligence a key opportunity for developers of all types of apps.
+
+Here are just a few that are currently in use:
+
+Google Assistant – You can access your assistant by holding down the home button on your Android phone, or saying aloud, “Okay Google.” From there you can send messages, check appointments, play music, and a host of other things hands-free.
+
+Socratic – Math help is here! Socratic is a smart tutoring app that can explain how to solve problems by analyzing a picture of the math problem.
+
+Microsoft Pix – Everyone wants to be able to take and share the perfect photo. Microsoft Pix helps by capturing ten frames per shutter click, using AI to select the best three, then deleting the rest, saving you storage space.
+
+Artificial Intelligence in FinTech
+
+FinTech has seen a lot of disruptive technology in the last decade. Traditional financial institutions are facing the challenge to keep up with technology as new apps emerge. AI is another disruptor in the sector.
+
+AI is able to reduce financial institution’s operation processing times. For example, your bank probably has an app that allows you to photograph a check for a deposit. The funds are often available immediately, in part due to AI being able to read the check. This eliminates the need for a human operator to accurately read and deposit the check.
+
+Fraud detection is another effort that Machine Learning is helping with. For example, Pixmettle is developing enterprise-level Artificial Intelligence tools to help flag things like duplicate expenses and corporate policy violations.
+
+Chatbots are also now widely in use. Many banking apps use them as part of their customer service suite, while there are apps that have specifically been developed to connect financial accounts with Facebook Messenger (such as Trim), allowing users to ask questions via the app, make cancellations, or get reports.
+
+Of course, FinTech is also ripe for AI cybersecurity, as mentioned earlier. Artificial Intelligence is scalable and able to rapidly analyze large amounts of data, making digital systems more secure, helping customers protect their financial products.
+
+Final Thoughts
+
+Artificial Intelligence represents a huge opportunity across virtually every sector. It has already proven to be disruptive, but it is anticipated that it will be much more widespread over the next few years. In case you are wondering how your industry can use AI to make improvements, or how you will ensure that your company remains competitive and makes the most of new technologies, AI is an area to watch. The best way to start adopting AI is by reaching out to a qualified app development partner who can help you address your specific needs.
+
+Gaurav Tewari, founder and Managing Partner of Omega Venture Partners.
+
+getty
+
+Over the last few years, artificial intelligence (AI) has worked its way into every area of our lives. If you’re a programmer, chances are you’ve started working with GitHub’s Copilot, an AI tool that turns natural language prompts into coding suggestions to expedite programming. If you’re a writer, you might have come across OpenAI’s GPT-3 or similar autoregressive language models that use deep learning to create human-like text. It was just a few years ago such AI programs were in their infancy. Now they are becoming ubiquitous tools in writing and coding.
+
+As the founder of a technology investment firm, I’ve seen firsthand just how much AI has advanced in such a short period of time. The underlying building blocks of the technology are getting astonishingly better at an exponential rate, far outpacing our expectations. Techniques like deep learning allow us to run complex AI models to solve the most difficult problems. But while those who work in technology-centric careers are aware of AI’s explosive capabilities, the public at large is still largely unaware of the depth of AI’s potential.
+
+The Growth Of AI
+
+Many of us have spent a few hours playing around with DALL-E 2, the AI text-to-image generator that can create detailed images out of the most bizarre requests (think Obi-Wan Kenobi eating a hot fudge sundae). But how many of us realize the level of technology that goes into the creation of one of those images? This app doesn’t create images out of existing internet images but rather uses a complicated process called diffusion to refine a series of pixels until the visual rendering matches the text description. Not only is DALL-E 2 exponentially more powerful than its predecessor released the year before, but it has the potential to revolutionize the world of digital art.
+
+Think about it—if you are a digital artist, illustrator or graphic designer, how much would your career change if you could use an app to create a realistic-looking image within seconds? These technologies tie to real-world applications with serious implications.
+
+The sheer velocity and magnitude of AI innovation have also led to impacts in fields such as commerce or digital healthcare. The development of AlphaFold, an AI system that descended from AlphaGo, was originally a deep learning model trained to beat human beings at the board game Go. When AlphaGo was released five years ago, few predicted that this deep learning model would one day lead to a revolutionary discovery in molecular biology.
+
+AlphaFold uses a deep neural network to predict the 3-D structures of proteins. The AI is a great advance in what scientists call the “protein-folding problem” and ended up predicting the structure of more than 200 million proteins, which is almost all that are currently known to exist. AlphaFold’s capabilities have opened the floodgates for medical researchers to develop countless drugs and vaccines to help humankind.
+
+A Competitive Advantage
+
+As AI continues to develop at an exponential rate, it is transforming the business world. Leveraging AI technologies can be a source of durable competitive advantage for businesses. Consider which repetitive tasks you might be able to automate using AI or how you can use AI to amplify your workers’ capabilities. Enterprise functions such as marketing, sales, finance and HR are all areas that can utilize new AI-enabled applications; these applications include providing customers with 24/7 financial guidance, predicting and assessing loan risks and collecting and analyzing client data.
+
+In my view, we’re reaching escape velocity when it comes to AI. Who knows what will be possible a few years from now? As AI innovations become relevant to nearly every economic sector and industry, I believe that companies that don’t adopt AI are going to be severely disadvantaged.
+
+Newer companies hold a distinct advantage in this area. Whereas existing businesses have to replace old technology, up-and-coming entrepreneurs can more naturally invest in the latest technologies right from the start. I recommend executives keep up with evolving AI technological trends in order to avoid the risk of being leapfrogged by newer entrants.
+
+Final Thoughts
+
+AI is the single biggest paradigm shift we’ve ever seen, and it’s evolving much faster than prior shifts. Advancements such as the cloud, mobile and the internet all changed the game, but none of them have evolved quite as rapidly as AI. As artificial intelligence continues to grow, it will soon dwarf the impact of these prior technology enablers, even as it builds upon and expands the applicability and impact of those technologies.
+
+Our success depends on taking advantage of what AI has to offer. In spite of what some may believe, I see how AI is set to change our world. Rather than fretting about a dystopian future, we can see AI for what it really is—a potent amplifier of human potential. Our only task is to make the most of it.
+
+Forbes Business Council is the foremost growth and networking organization for business owners and leaders. Do I qualify?

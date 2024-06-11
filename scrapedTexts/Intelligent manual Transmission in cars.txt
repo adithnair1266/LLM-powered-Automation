@@ -1,0 +1,213 @@
+More people than ever are choosing to drive an automatic car today. Crowded roads, chaotic traffic conditions and other stress inducing factors have contributed to this trend.
+
+The automatic transmission system was introduced commercially around 1948 by General Motors to offer a no-fuss form of shifting. Automatic cars, as the name suggests, are for those seeking an easier, more relaxed form of driving; with convenience, safety and practicality woven into one.
+
+Time and technological advances have improved and introduced various types of automatic transmissions such as AMT, iMT, CVT, DCT and so on. While each of them are unique in their own ways, in this article we will deconstruct what the AMT and iMT transmissions essentially are.
+
+If you draw a parallel between the AMT and iMT transmissions with the manual transmission, you will find that the two are mechanically very similar to the manual transmission (as compared to other automatic transmissions), with the most apparent difference being ‘user input’.
+
+While the two systems are very different from each other in the way they function, iMT and AMT can actually be looked at as based on the same system with some differences in operation and user input. Let’s see how.
+
+Also read: Small Automatic Cars in India
+
+What is an iMT?
+
+iMT stands for Intelligent Manual Transmission. This system simply removes the clutch pedal thus reducing a major point of interaction a driver has with the car. It relies on an intelligent intention sensor, hydraulic clutch actuator, and an electronic transmission control unit. This is then put together with a conventional H gearbox which in turn works with the engine of the car. To explain it in even simpler terms, the iMT transmission removes the clutch pedal and uses sensors to use the ‘in-built’ clutch while the power to change gears remains in the drivers’ hands.
+
+What is an AMT?
+
+AMT stands for Automated Manual Transmission. It is exactly as its name suggests – a transmission that automates manual transmission. AMT not only removes the clutch pedal like the iMT but also goes a step further to relieve the driver of the responsibility of shifting gears, thereby reducing user input to a bare minimum.
+
+The AMT system works with the help of a series of sensors and mechanical parts that are being told what to do by the cars ECU (Electronic Control Unit), pre-programmed by respective automotive manufacturers. Sensors and actuators work together to engage the clutch and shift gears and therefore, the only true interaction the driver has is with the accelerator and brake pedal.
+
+iMT vs. AMT: Transmission Compared
+
+Like we’ve said before, iMT and AMT in essence are transmissions based on the same manual gearbox that has been used in cars for a long time. In a simpler world, they could perhaps be called sibling technologies as they share the same base of engineering.
+
+The major difference between these two transmissions is the way they function from the drivers’ perspective. But while driver experience is the most valid ground for comparing the two, they could also be compared on the basis of cost and mileage. Let’s break it down.
+
+iMT vs. AMT: Driving Experience
+
+Let’s say you’re learning how to drive a manual transmission car. You start the car, press the clutch pedal, move the gear from neutral to first, slowly let the clutch go, and press the accelerator pedal to get the car moving. Then, depending on the RPM of your car and the terrain you’re driving on, you press the clutch, shift the gear to the next and repeat this process. Similarly, if you decrease your speed, you must use the clutch again and downshift.
+
+When you use this understanding of manual transmissions to compare the iMT and AMT systems, one similarity you’ll find is the absence of a clutch pedal, which allows the driver to shift gears without pressing their left foot down on the clutch.
+
+< e m > H y u n d a i i 2 0 i M T < / e m >
+
+The difference in driving experience arises from the absence of a conventional H gearbox in an AMT. All you need to do in an AMT is start the car and move the gear-stick from Neutral to Drive and the car will automatically shift the gear from one to the next depending on your speed and the RPM your car is moving at. If you want to reverse the car, all you have to do is move the gear stick to reverse. You need not worry about pressing the clutch or shifting gears according to the circumstances of the road.
+
+Also read: How to Drive an Automatic Car
+
+Thus, iMTs offer drivers greater control of their cars in terms of gear-shifting by letting them decide when to upshift or downshift. AMTs on the other hand offer peace of mind by automatically changing gears at speeds pre-defined by car manufacturers keeping in mind longevity and mileage.
+
+It’s no doubt that AMTs make driving a breeze especially in peak hour traffic, but the downside to them on account of the automatic changing of gears is a slight lag that is felt in comparison to an iMT, where power is engaged the moment gear shift is initiated by the driver (similar to a manual transmission).
+
+iMT vs. AMT: Cost
+
+There is presently no car manufacturer in India who has both transmissions present in the same model, making a cost comparison between iMTs and AMTs a tad difficult. But we could perhaps touch upon general costs to help you compare the two.
+
+An iMT has fewer components compared to an AMT, so the basic cost of manufacturing is quite similar to an AMT which is a much older technology refined over time. On maintenance, AMT is a little more expensive to maintain as the number of automated parts are more than an iMT, which in the longer run will cost less to maintain than a high end AMT transmission.
+
+To know what works best for your budget, it is best to do an independent analysis of the cars you shortlist with respect to purchase price, service and maintenance to conclude which transmission works best for your pocket.
+
+Also read: Cheapest Automatic Cars in India
+
+iMT vs. AMT: Mileage
+
+Comparing an iMT to an AMT on the basis of mileage is simple.
+
+iMTs essentially are manual gear-shift cars with an automatic clutch, and therefore, on paper, have better mileage than manual cars. Nonetheless, fuel-efficiency of iMTs still depends largely on driving style and how frequently drivers’ are able to change gears at the ideal RPMs.
+
+AMTs, on the other hand, come tuned from the factory to shift gears at the right time, to ensure consistent fuel efficiency.
+
+An AMT, therefore, is a hands down winner in this department.
+
+< e m > T h e M a r u t i S u z u k i C e l e r i o A M T c a n d e l i v e r a m i l e a g e o f 2 6 k m p l < / e m >
+
+iMT vs. AMT: Conclusion
+
+iMTs and AMTs have advantages in their own right. It is, however, not easy to get a definitive answer on which transmission is best for you, as it depends entirely on your personal preference.
+
+If you’re a driver who likes to take charge of your car’s performance and speed at the shift of gears, and yet enjoy the relief of keeping your left foot free, perhaps the iMT car is best suited to your needs.
+
+If you’re seeking an even easier driving experience and derive delight from merely pressing the brake and accelerator, (perhaps because you often find yourself stuck in city traffic), you may prefer an AMT transmission.
+
+In this particular case, you cannot call one better than the other, as both transmissions have their own sets of enthusiasts.
+
+To conclude, we’d say the choice rests with you and whether you value control over your car, irrespective of your driving conditions, or the feeling of relaxation that comes with not having to change gears at all.
+
+Best AMT Cars in India
+
+Car Engine Mileage Price (ex-showroom) Tata Nexon AMT 1.2-litre turbo petrol
+
+1.5-litre turbo diesel 17 kmpl
+
+21.5 kmpl
+
+Rs. 9.24-14.07 lakh
+
+Maruti Celerio AMT 1.0-litre petrol
+
+26.68 kmpl
+
+Rs. 6.24-7.00 lakh
+
+Renault Triber AMT 1.0-litre petrol
+
+18.82 kmpl
+
+Rs. 7.70-8.50 lakh
+
+
+
+Best iMT Cars in India
+
+Type of multi-speed motor vehicle transmission
+
+A semi-automatic transmission is a multiple-speed transmission where part of its operation is automated (typically the actuation of the clutch), but the driver's input is still required to launch the vehicle from a standstill and to manually change gears. Semi-automatic transmissions were almost exclusively used in motorcycles and are based on conventional manual transmissions or sequential manual transmissions, but use an automatic clutch system. But some semi-automatic transmissions have also been based on standard hydraulic automatic transmissions with torque converters and planetary gearsets.[1][2]
+
+Names for specific types of semi-automatic transmissions include clutchless manual,[3] auto-manual,[4][5] auto-clutch manual,[6][7] and paddle-shift transmissions.[8][9][10] These systems facilitate gear shifts for the driver by operating the clutch system automatically, usually via switches that trigger an actuator or servo, while still requiring the driver to manually shift gears. This contrasts with a preselector gearbox, in which the driver operates the clutch and selects the next gear ratio, but the gear change within the transmission is performed automatically.
+
+The first usage of semi-automatic transmissions was in automobiles, increasing in popularity in the mid-1930s when they were offered by several American car manufacturers. Less common than traditional hydraulic automatic transmissions, semi-automatic transmissions have nonetheless been made available on various car and motorcycle models and have remained in production throughout the 21st century. Semi-automatic transmissions with paddle shift operation have been used in various racing cars, and were first introduced to control the electro-hydraulic gear shift mechanism of the Ferrari 640 Formula One car in 1989. These systems are currently used on a variety of top-tier racing car classes; including Formula One, IndyCar, and touring car racing. Other applications include motorcycles, trucks, buses, and railway vehicles.
+
+Design and operation [ edit ]
+
+Semi-automatics facilitate easier gear shifts by removing the need to depress a clutch pedal or lever at the same time as changing gears. Most cars that have a semi-automatic transmission are not fitted with a standard clutch pedal since the clutch is remotely controlled. Similarly, most motorcycles with a semi-automatic transmission are not fitted with a conventional clutch lever on the handlebar.
+
+Clutchless manual transmissions [ edit ]
+
+Most semi-automatic transmissions are based on conventional manual transmission. They can be partially automated transmission. Once the clutch becomes automated, the transmission becomes semi-automatic. However, these systems still require manual gear selection by the driver. This type of transmission is called a clutchless manual or an automated manual.
+
+Most semi-automatic transmissions in older passenger cars retain the normal H-pattern shifter of a manual transmission; similarly, semi-automatic transmissions on older motorcycles retain the conventional foot-shift lever, as on a motorcycle with a fully manual transmission. However, semi-automatics systems in newer motorcycles, racing cars, and other types of vehicles often use gear selection methods such as shift paddles near the steering wheel or triggers near the handlebars.[11][12][13][14][15][16][17]
+
+Several different forms of automation for clutch actuation have been used over the years, from hydraulic, pneumatic, and electromechanical clutches to vacuum-operated,[18] electromagnetic, and even centrifugal clutches. Fluid couplings (most commonly and formerly used in early automatic transmissions) have also been used by various manufacturers, usually alongside some form of mechanical friction clutch, to prevent the vehicle from stalling when coming to a standstill or at idle.
+
+A typical semi-automatic transmission design may work by using Hall effect sensors or micro switches to detect the direction of the requested shift when the gear stick is used. These sensors' output, combined with the output from a sensor connected to the gearbox which measures its current speed and gear, is fed into a transmission control unit, electronic control unit, engine control unit, or microprocessor,[19][20] or another type of electronic control system. This control system then determines the optimal timing and torque required for smooth clutch engagement.
+
+The electronic control unit powers an actuator, which engages and disengages the clutch in a smooth manner. In some cases, the clutch is actuated by a servomotor coupled to a gear arrangement for a linear actuator, which, via a hydraulic cylinder filled with hydraulic fluid from the braking system, disengages the clutch. In other cases, the internal clutch actuator may be completely electric, where the main clutch actuator is powered by an electric motor or solenoid, or even pneumatic, where the main clutch actuator is a pneumatic actuator that disengages the clutch.
+
+A clutchless manual system, named the Autostick, was a semi-automatic transmission introduced by Volkswagen for the 1968 model year. Marketed as the Volkswagen Automatic Stickshift, a conventional three-speed manual transmission was connected to a vacuum-operated automatic clutch system. The top of the gear stick was designed to depress and activate an electric switch, i.e. when touched by the driver's hand. When pressed, the switch operated a 12-volt solenoid, which in turn operated the vacuum clutch actuator, thus disengaging the clutch and allowing shifting between gears. With the driver's hand removed from the gearshift, the clutch would re-engage automatically. The transmission was also equipped with a torque converter, allowing the car to idle in gear like with an automatic, as well as stop and start from a standstill in any gear.[21][22][23]
+
+Automated manual transmissions [ edit ]
+
+Paddle shifter on a car.
+
+Starting in the late 1990s, automotive manufacturers introduced what is now called an automated manual transmission (AMT), which is mechanically similar to, and has its roots in, earlier clutchless manual transmission systems. An AMT functions in the same way as older semi-automatic and clutchless manual transmissions, but with two exceptions; it is able to both operate the clutch and shift automatically, and does not use a torque converter. Shifting is done either automatically from a transmission control unit (TCU), or manually from either the shift knob or shift paddles mounted behind the steering wheel. AMTs combine the fuel efficiency of manual transmissions with the shifting ease of automatic transmissions. Their biggest disadvantage is poor shifting comfort due to the mechanical clutch being disengaged by the TCU, which is easily noticeable as "jolting".[citation needed] Some transmission makers have tried solving this issue by using oversized synchronizer rings and not fully opening the clutch during shifting—which works in theory, but as of 2007, there have not been any series production cars with such functions.[needs update] In passenger cars, modern AMTs generally have six speeds (though some have seven) and a rather long gearing. In combination with a smart-shifting program, this can significantly reduce fuel consumption. In general, there are two types of AMTs: integrated AMTs and add-on AMTs. Integrated AMTs were designed to be dedicated AMTs, whereas add-on AMTs are conversions of standard manual transmissions into AMTs.[citation needed]
+
+An automated manual transmission may include a fully automatic mode where the driver does not need to change gears at all.[24] These transmissions can be described as a standard manual transmission with an automated clutch and automated gear shift control, allowing them to operate in the same manner as traditional automatic transmissions. The TCU automatically shifts gears if, for example, the engine is redlined. The AMT can be switched to a clutchless manual mode wherein one can upshift or downshift using a console-mounted shift selector or paddle shifters.[25] It has a lower cost than conventional automatic transmissions.[26]
+
+The automated manual transmission (trade names include SMG-III) is not to be confused with "manumatic" automatic transmission (marketed under trade names such as Tiptronic, Steptronic, Sportmatic, and Geartronic). While these systems seem superficially similar, a manumatic uses a torque converter like an automatic transmission, instead of the clutch used in the automated manual transmission. An automated manual can give the driver full control of the gear selection, whereas a manumatic will deny a gear change request that would result in the engine stalling (from too few RPM) or over-revving. [24] The automatic mode of an automated manual transmission at low or frequent stop start speeds is less smooth than that of manumatics and other automatic transmissions. [27]
+
+Sequential manual transmissions [ edit ]
+
+Several semi-automatic transmissions used by motorcycles and racing cars are actually mechanically based on sequential manual transmissions. Semi-automatic motorcycle transmissions generally omit the clutch lever, but retain the conventional heel-and-toe foot shift lever.[28][29][30][31][32][33]
+
+Semi-automatic motorcycle transmissions are based on conventional sequential manual transmissions and typically use a centrifugal clutch.[34] At idle speed, the engine is disconnected from the gearbox input shaft, allowing both it and the bike to freewheel, unlike with torque converter automatics, there is no idle creep with a properly adjusted centrifugal clutch. As the engine speed rises, counterweights within the clutch assembly gradually pivot further outwards until they start to make contact with the inside of the outer housing and transmit an increasing amount of engine power and torque. The effective "bite point" or "biting point"[35] is found automatically by equilibrium, where the power is transmitted through the (still-slipping) clutch is equal to what the engine can provide. This allows relatively fast full-throttle takeoffs (with the clutch adjusted so the engine is at peak torque) without the engine slowing or being bogged down, as well as more relaxed starts and low-speed maneuvers at lower throttle and RPMs.
+
+Usage in passenger cars [ edit ]
+
+Bollée Type F Torpedo with gear shift ring located inside the steering wheel
+
+In 1901, Amédée Bollée developed a method of shifting gears that did not require the use of a clutch and was activated by a ring mounted within the steering wheel.[36] One car using this system was the 1912 Bollée Type F Torpedo.
+
+Prior to the arrival of the first mass-produced hydraulic automatic transmission (the General Motors Hydra-Matic) in 1940, several American manufacturers offered various devices to reduce the amount of clutch or shifting input required.[37] These devices were intended to reduce the difficulty of operating the unsynchronised manual transmissions, or "crash gearboxes", that were commonly used, especially in stop-start driving.
+
+An early step towards automated transmissions was the 1933–1935 REO Self-Shifter,[38][39][40][41] which automatically shifted between two forward gears in the "forward" mode (or between two shorter gear ratios in the "emergency low" mode). Standing starts required the driver to use the clutch pedal. The Self-Shifter first appeared in May 1933 and was offered as standard on the Royale and as an option on the Flying Cloud S-4.[42]
+
+In 1937, the four-speed Oldsmobile Automatic Safety Transmission was introduced on the Oldsmobile Six and Oldsmobile Eight models.[38] It used a planetary gearset with a clutch pedal for starting from a standstill and switching between the "low" and "high" ranges.[43][44][45] The Automatic Safety Transmission was replaced by the fully-automatic Hydra-Matic for the 1940 model year.[46][47]
+
+The 1938–1939 Buick Special was available with another Self-Shifter 4-speed semi-automatic transmission,[48][49][50] which used a manual clutch for starting from standstill and an automated clutch for gear changes.
+
+The 1941 Chrysler M4 Vacamatic transmission was a two-speed manual transmission with an integral underdrive unit, a traditional manual clutch, and a fluid coupling between the engine and the clutch.[51][52][53] The two-speed transmission had "high" and "low" ranges, and the clutch was used when the driver wanted to switch between ranges. For normal driving, the driver would press the clutch, select the High range, and then release the clutch. Once the accelerator was pressed, the fluid coupling would engage and the car would begin moving forward, with the underdrive unit engaged to provide a lower gear ratio. At between 15–20 mph (24–32 km/h), the driver would lift off the accelerator and the underdrive unit would disengage. The Vacamatic was replaced by a similar M6 Presto-Matic transmission for the 1946 model year.
+
+Similar designs were used for the 1941–1950 Hudson Drive-Master[54][55] and the ill-fated 1942 Lincoln Liquimatic.[56][57] Both of these combined a 3-speed manual transmission with automated shifting between the 2nd and 3rd gears, instead of the Vacamatic's "underdrive" unit.
+
+The Packard Electro-Matic, introduced in the 1941 Packard Clipper and Packard 180, was an early clutchless manual transmission that used a traditional friction clutch with automatic vacuum operation, which was controlled by the position of the accelerator.
+
+The Automotive Products manumatic system, available on the 1953 Ford Anglia 100E, was a vacuum-powered automatic clutch system that was actuated by a switch that was triggered whenever the gear stick was moved. The system could control the throttle cable (to keep the engine at the required RPM for the gear change) and vary the rate of clutch engagement.[58] The successive Newtondrive system, available on the 1957–1958 Ford Anglia, also had a provision for choke control. A similar product was the German Saxomat automatic clutch system, which was introduced in the mid-1950s and available on various European cars.[59]
+
+The Citroën DS, introduced in 1955, used a hydraulic system with a hydraulically-operated speed controller and idle speed step-up device to select gears and operate the otherwise conventional clutch. This allowed clutchless shifting with a single column-mounted selector, while the driver simultaneously lifted off the accelerator to change gear. This system was nicknamed "Citro-Matic" in the U.S.
+
+For the 1962 model year, American Motors introduced the E-Stick, which eliminated the clutch pedal in the Rambler American with standard three-speed manual transmissions.[60] This automatic clutch used engine oil pressure as a hydraulic source and was available for less than $60.[61] Compared to fully automatic transmissions of the time, the E-Stick offered the fuel economy of a stick-shift, with vacuum and electric switches controlling the clutch. The E-Stick three-speed transmission was offered on the larger Rambler Classic models, along with an overdrive unit.[62] The system was only available with 6-cylinder engines, and the lack of a clutch proved unpopular, so it was discontinued after 1964.[63]
+
+The 1967 Volkswagen WSK (Wandlerschaltkupplungsgetriebe; English: Torque converter shift/clutch gearbox), used in the Beetle, Type 3 and Karmann Ghia, was one of the first gearboxes of its kind, with an automatic mechanical clutch and a torque converter. It was also known as the Autostick. Shifting was done manually by the driver. The automatic mechanical clutch allowed the car to accelerate from a stop, whereas the torque converter enabled it to do so in any gear. Dampening engine vibrations and providing torque multiplication, it functioned as a sort of "reduction gearbox", so the actual mechanical gearbox only needed three forward gears (this is why conventional automatic transmissions with torque converters normally have fewer gears than manual transmissions). The WSK had no "first" gear; instead, the first gear was converted into reverse gear, and the second gear was labeled first (with the third and fourth gears respectively being labeled second and third).[64]
+
+The Chevrolet Torque-Drive transmission, introduced on the 1968 Chevrolet Nova and Camaro, is one of a few examples where a semi-automatic transmission was based on a conventional hydraulic automatic transmission (rather than a standard manual transmission). The Torque-Drive was essentially a 2-speed Powerglide automatic transmission without the vacuum modulator, requiring the driver to manually shift gears between "Low" and "High". The quadrant indicator on Torque-Drive cars was "Park-R-N-Hi-1st". The driver would start the car in "1st," then move the lever to "Hi" when desired. The Torque-Drive was discontinued at the end of 1971 and replaced by a traditional hydraulic automatic transmission. Other examples of semi-automatic transmissions based on hydraulic automatics were the Ford 3-speed Semi-Automatic Transmission used in the 1970–1971 Ford Maverick, early versions of Honda's 1972–1988 Hondamatic 2-speed and 3-speed transmissions, and the Daihatsu Diamatic 2-speed transmission used in the 1985–1991 Daihatsu Charade.
+
+Other examples [ edit ]
+
+Illustration of Saab's Sensonic clutchless manual transmission system.
+
+Usage in motorcycles [ edit ]
+
+An early example of a semi-automatic motorcycle transmission was the use of an automatic centrifugal clutch in the early 1960s by the Czechoslovakian manufacturer Jawa Moto.[83] Their design was used without permission in the 1965 Honda Cub 50, which resulted in Jawa suing Honda for patent infringement and Honda agreeing to pay royalties for each motorcycle using the design.[83]
+
+Other semi-automatic transmissions used in motorcycles include:
+
+Usage in motorsports [ edit ]
+
+Semi-automatic transmissions in racing cars are typically operated by shift paddles connected to a designated transmission control unit.
+
+The first Formula One car to use a semi-automatic transmission was the 1989 Ferrari 640.[36][114] It used hydraulic actuators and electrical solenoids for clutch control and shifting, and was shifted via two paddles mounted behind the steering wheel. Another paddle on the steering wheel controlled the clutch, which was only needed when starting from a standstill.[115] The car won its debut race at the Brazilian Grand Prix, but for much of the season suffered from reliability problems.[116] Other teams began switching to similar semi-automatic transmissions; the 1991 Williams FW14 was the first to use a sequential drum-rotation mechanism (similar to those used in motorcycle transmissions), which allowed for a more compact design that required only one actuator to rotate the drum and change gears. A further development was made possible by the introduction of electronic throttle control soon after, which made it possible for the car to automatically rev-match during downshifts.[117] By 1993, most teams were using semi-automatic transmissions. The last F1 car fitted with a conventional manual gearbox, the Forti FG01, raced in 1995.[118]
+
+Following concerns about the potential for Formula One cars to shift gears automatically without any driver input, mandatory software was introduced in 1994[119] that ensured that gear changes only occurred when instructed by the driver. Pre-programmed, computer-controlled, fully-automatic upshifts and downshifts were re-introduced and allowed from 2001, and were permitted from that year's Spanish Grand Prix, but were banned again in 2004.[120][121][122][123][124][125][126][127] Buttons on the steering wheel to shift directly to a particular gear (instead of having to shift sequentially using the paddles) are permitted.[citation needed] The 2005 Minardi PS05, Renault R25, and Williams FW27 were the last Formula 1 cars to use a 6-speed gearbox before the switch to a mandatory 7-speed gearbox for the 2006 season. Since 2014 season, Formula 1 cars currently use mandatory 8-speed paddle-shift gearboxes.
+
+The now-defunct CART Champ Car Series switched from a lever-shift sequential system to a 7-speed paddle-shift system for the 2007 season. This transmission was introduced with the new-for-2007 Panoz DP01 chassis.
+
+The rival IndyCar Series introduced their 6-speed semi-automatic paddle-shift system for the 2008 season, also replacing the previous lever-shifted sequential transmission, introduced with the Dallara IR-05 chassis for 2008.[128] IndyCars currently use the Xtrac P1011 sequential transmission, which uses a semi-automatic paddle shift system supplied by Mega-Line called AGS (Assisted Gearshift System). AGS uses a pneumatic gearshift and clutch actuator controlled by an internal transmission control unit.[129][130][131][132][133]
+
+Both the FIA Formula 2 and Formula 3 Championships currently use 6-speed sequential gearboxes with electro-hydraulic operation via shift paddles. Manual control of the multi-plate clutch systems via a lever behind the steering wheel is used to launch the cars.
+
+DTM currently uses a Hewland DTT-200 6-speed sequential transmission with steering-wheel-mounted shift paddles, which was introduced for the 2012 season with the new rule change. This new system replaced the older lever-shifted sequential transmission, which had been used for the previous 12 seasons (since 2000).
+
+Usage in other vehicles [ edit ]
+
+Other notable uses for semi-automatic transmissions include:
+
+See also [ edit ]
+
+As we know in the U.S., we will not be getting the GR Yaris, but we will get the GR Corolla (which interests me). The GR Yaris and other Toyotas have been using the iMT (Intelligent Manual Transmission) in several of their models, and the upcoming GR Corolla will most assuredly have the same (until the rumored AT is revealed for a future MY).
+
+My question is what makes this different from the regular MT that I already know and understand? When I look up iMT online, I get conflicting answers. I have seen some sites that say that it is a manual without a clutch pedal, other sites state that it does use a clutch pedal, but it works somewhat differently than a standard MT, and yet other sites say it has a clutch pedal, but turning on the iMT removes the need to shift gears, except from N to 1st.
+
+Sorry if this has been asked before, but I was admittedly too lazy to search this sub. Thanks in advance for any answers provided.

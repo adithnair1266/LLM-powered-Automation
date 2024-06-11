@@ -1,0 +1,39 @@
+OpenAI seems to be in a generous spirit, offering up many of the features in ChatGPT previously reserved for those paying $20 a month for free to all users.
+
+The move was first announced during its Spring Update along with GPT-4o and some impressive new voice-to-voice functionality for ChatGPT. While the voice functionality hasn’t yet been launched, GPT-4o is now widely available for free and paid accounts.
+
+Free users will now have access to the hundreds of thousands of custom GPTs created by companies and individuals, as well as data and code analysis tools, the ability to upload images and have the chatbot comment on them and of course GPT-4o itself.
+
+There is a catch to all of this generosity thought — you won’t be able to make custom GPTs with a free account, image generation with DALL-E isn’t available and you’ll only get about 10 messages at a time to GPT-4o before it reverts back to GPT-3.5.
+
+Why is OpenAI making features free?
+
+All ChatGPT Free users can now use browse, vision, data analysis, file uploads, and GPTs. https://t.co/NTXSalAV6qMay 29, 2024
+
+OpenAI says the aim is to put advanced artificial intelligence tools in the hands of as many people as possible and so made both GPT-4o and other tools free in ChatGPT.
+
+While that is likely true in itself, there are other factors at play including increased competition from Microsoft with its GPT-4o-powered Copilot, Claude 3 from Anthropic and Google.
+
+Microsoft has offered GPTs, image generation and data analysis in the free version of Copilot since day one, using rate limits to set the paid plan apart. OpenAI is now doing the same.
+
+Sign up to get the BEST of Tom’s Guide direct to your inbox. Upgrade your life with a daily dose of the biggest tech news, lifestyle hacks and our curated analysis. Be the first to know about cutting-edge gadgets and the hottest deals. Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors
+
+As well as giving more people a better first impression of what is possible with AI, the move will likely also drive up subscriptions as they’re only offering a limited number of messages (likely, around 10) using GPT-4o and advanced tools per day with the free plan.
+
+Why should I keep paying $20 a month
+
+With the free version of ChatGPT you now get access to GPT-4o, OpenAI’s most advanced general-purpose AI model, code and data analysis, image upload and GPTs.
+
+What you don’t get is the ability to create your own custom GPT chatbots, make images using DALL-E or — at least for now — access to the ChatGPT desktop app for Mac.
+
+OpenAI says the paid accounts will also get access to the new voice and vision capabilities first an it is expected when the next generation model launches it will be exclusive to the paid plan.
+
+The company also added that those on a paid plan will get five times more messages using GPT-4o per day than the free users. I’ve been testing it out and despite very heavy usage haven’t hit the rate limit yet on the paid plan.
+
+When OpenAI unveiled the latest version of its immensely popular ChatGPT chatbot this month, it had a new voice possessing humanlike inflections and emotions. The online demonstration also featured the bot tutoring a child on solving a geometry problem.
+
+To my chagrin, the demo turned out to be essentially a bait and switch. The new ChatGPT was released without most of its new features, including the improved voice (which the company told me it postponed to make fixes). The ability to use a phone’s video camera to get real-time analysis of something like a math problem isn’t available yet, either.
+
+Amid the delay, the company also deactivated the ChatGPT voice that some said sounded like the actress Scarlett Johansson, after she threatened legal action, replacing it with a different female voice.
+
+For now, what has actually been rolled out in the new ChatGPT is the ability to upload photos for the bot to analyze. Users can generally expect quicker, more lucid responses. The bot can also do real-time language translations, but ChatGPT will respond in its older, machine-like voice.

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mouse Events</title>
+<style>
+    #output {
+        margin-top: 20px;
+        border: 1px solid black;
+        padding: 10px;
+        width: 200px;
+        height: 100px;
+    }
+</style>
+</head>
+<body>
+
+<div id="output">Move your mouse over this box.</div>
+
+<script>
+    var output = document.getElementById("output");
+
+    output.addEventListener("mouseenter", function(event) {
+        output.textContent = "Mouse entered the box";
+        output.style.background = "lightblue";
+    });
+
+    output.addEventListener("mouseleave", function(event) {
+        output.textContent = "Mouse left the box";
+        output.style.background = "white";
+    });
+
+    output.addEventListener("mousemove", function(event) {
+        var x = event.clientX;
+        var y = event.clientY;
+        output.textContent = "Mouse position - X: " + x + ", Y: " + y;
+    });
+</script>
+
+</body>
+</html>

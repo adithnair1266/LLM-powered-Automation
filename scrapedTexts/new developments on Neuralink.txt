@@ -1,0 +1,21 @@
+Neuralink’s ambition to provide a brain-computer interface orders of magnitude better than what’s out there now has hit headwinds with the FDA, Reuters reports. The agency reportedly rejected the company’s application to begin human testing last year, a somewhat expected obstacle that seems nevertheless to have frustrated backer Elon Musk.
+
+The well-sourced report explains that the company made its bid for human testing in 2022, but was rejected with numerous concerns cited. The “neural lace” that forms the implant could migrate through the brain’s soft tissue; the device could overheat; the implanted battery could fail; removal under any circumstances of failure, rejection or infection could damage the brain.
+
+Such concerns are perfectly rational, and it’s commonplace for medical devices to be rejected for potential safety issues their creators either didn’t test properly or hoped the regulator wouldn’t notice. Generally one gets back to work and tries again a year later.
+
+That may very well be what is happening at Neuralink; nothing Reuters’ sources said suggests that anyone is tearing their hair and bewailing their bad fortune. But some do report consternation from Musk at the slow pace of progress.
+
+But the FDA is right to be wary: Not only is Neuralink proposing an entirely new in-body electronic system and even a new, robotic method of implantation, but the company has also been cited for cruelty in its animal testing. This part of the process is in a way unavoidably cruel, of course, but there are guardrails on what is ethical for testers to inflict on animals and Neuralink has reportedly exceeded those — possibly in pursuit of faster progress.
+
+People in leadership have fled the company for one reason or another; one co-founder is leaving to form a new brain implant company, Precision Neuroscience, which just raised $41 million.
+
+It’s difficult to gauge progress and setbacks because Neuralink is, like Musk’s other companies, very secretive, only sharing progress in the form of occasional, carefully curated events. But a working implant in a seemingly happy monkey on video, while promising, is hardly proof that the tech is ready for human testing. And when all we hear from the company is “soon, very soon” for years on end, despite apparently receiving a non-trivial rejection from regulators, we begin to doubt.
+
+Most companies working in this space have been doing so for years, up to and including their FDA approval for human testing and use, without making the kind of promises Musk has on behalf of Neuralink. This technology in all its forms represents a potential breakthrough for people with debilitating conditions, but putting foreign matter, let alone a great deal of it, into the brain is fundamentally dangerous. A company that wants to pursue such lofty applications as restoring sight and mobility must first prove that the implants are safe at a basic level, and that is what the FDA is reportedly asking.
+
+Featured Article
+
+Of the many frustrations of having a severe motor impairment, the difficulty of communicating must surely be among the worst. The tech world has not offered much succor to those affected by things like locked-in syndrome, ALS and severe strokes, but startup Cognixion aims to with a novel form of brain monitoring that, combined with…
+
+We all knew this would come one day, especially since the basic technology has been around for some time, and now we have it: A brain activity-powered remote control that…

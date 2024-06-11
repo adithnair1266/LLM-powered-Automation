@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JSON Data in HTML Table</title>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <h1>JSON Data in HTML Table</h1>
+    <script>
+        const jsonData = [
+            { "id": 1, "name": "John", "age": 30 },
+            { "id": 2, "name": "Maria", "age": 25 },
+            { "id": 3, "name": "Peter", "age": 40 }
+        ];
+
+        const table = document.createElement("table");
+        table.innerHTML = '';
+        jsonData.forEach(json => {
+            const tr = document.createElement("tr");
+            Object.keys(json).forEach(key => {
+                const td = document.createElement("td");
+                td.textContent = json[key];
+                tr.appendChild(td);
+            });
+            table.appendChild(tr);
+        });
+
+        document.body.appendChild(table);
+    </script>
+</body>
+</html>

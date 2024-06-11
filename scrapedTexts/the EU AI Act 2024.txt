@@ -1,0 +1,195 @@
+While the European Union is not John Connor, and ChatGPT is certainly no Skynet, the EU has taken a bold first step in attempting to protect our society and the “fundamental rights of a person”[1] from the risks that come with the rapidly advancing development of more and more powerful artificial intelligence (AI) models.
+
+What Happened? The European Council Approved the EU AI Act
+
+On February 2, 2024, the European Council (consisting of representatives from each of the 27 member states) unanimously voted to approve the groundbreaking European Union Artificial Intelligence Act (the “EU AI Act” or the “Act”)[2] – a global first of its kind attempt to introduce a comprehensive set of AI regulations.[3] The legislation was then officially signed off on by the European Parliament on March 13, 2024. Now, the Act will be subject to a final lawyer-linguist check, before being published in the EU’s Official Journal and then enter into force twenty days after publication.[4] From there, the Act will apply on a rolling basis, with the Act’s prohibitions applying after six months, the codes of practice after nine months, the rules covering General Purpose AI (GPAI) after 12 months, the obligations for high-risk systems after 36 months, and finally, the majority of the Act will take effect after a two year grace period designed to allow for time to prepare for compliance, and to establish effective oversight.[5] The Act took months of intensive “trialogue negotiations between the EU Commission, Parliament, and Council.”[6] Some of the most contentious issues were: what would be included in the high-risk or prohibited categories, how the Act would be enforced, and how to handle GPAI models such as foundation models and generative AI systems like ChatGPT.[7]
+
+What Does the Act Do?
+
+With the EU AI Act, the EU seems to be attempting to strike an important balance between promoting innovation and recognizing risk. The EU recognizes and seeks to promote the exciting range of “economic and societal benefits” that artificial intelligence technologies can bring to various sectors of society.[8] However, the EU’s world first attempt at comprehensively corralling this game-changing new technology is meant to acknowledge the upside, while also being extremely careful to address the risks associated with AI, recognizing the technologies’ potential to, “jeopardise fundamental rights such as the right to non-discrimination, freedom of expression, human dignity, personal data protection and privacy.”[9]
+
+The EU AI Act, attempts to strike this balance using a tiered set of regulations, classifying AI models using four categories of risk: unacceptable risk, high risk, limited risk, and minimal risk.[10]
+
+AI systems categorized as presenting an unacceptable risk will be banned all together, these include: biometric categorization systems based on protected traits, emotion recognition systems in a workplace or educational setting, untargeted facial image scrapping to create facial recognition databases; social scoring; systems manipulating people’s free will, and AI used to exploit people’s vulnerabilities (ex: age, disability, etc.).[11] One notable exemption, is that real time biometric identification systems can be used by law enforcement, in limited circumstances, and under very narrow safeguards.[12]
+
+Next, the high-risk category of AI systems may be the most complicated, as the determination will depend on a series of factors regarding how the system is used and in what industry or product line it is used in.[13] Products under the EU’s product safety legislation will be covered here, such as toys, aviation, automobiles, medical devices, and elevators.[14] Additionally, there will be a litany of use-cases in high-risk areas that will be covered, including: law enforcement, critical infrastructure, educational training, employment, border control, and the judicial or democratic processes.[15] These high-risk systems will need to, “adhere to regulations that require rigorous testing, proper documentation of data quality and an accountability framework that details human oversight.”[16] High risk systems will therefore be required to “assess and reduce risks, maintain use logs, be transparent and accurate, and ensure human oversight.”[17] Thus, high-risk AI systems will be assessed before they are allowed to enter the market and as they are used on the market,[18] as they will be subject to registration and oversight, likely from the new EU AI Office.[19] These companies will also be held accountable in several forms, from fundamental rights impact assessments, to private citizens with the right to launch complaints.[20]
+
+On the other hand, AI systems deemed a limited risk, including chatbots and systems that can create deepfakes, will just need to comply with transparency obligations such as notifying their users that the content they are interacting with is AI generated (e.g. AI generated text, audio, video, etc.).[21] Finally, the remaining systems, including AI used in everything from video games to spam filters, will be considered minimal-risk and allowed to be used freely.[22]
+
+However, after much debate, the EU will also be separately regulating the extremely powerful GPAIs that have recently come to prominence, such as ChatGPT,[23] with a separate, two-tiered system.[24] The first tier covers all GPAI systems and requires transparency regarding their training methods & data, adherence to copyright laws, and ability to identify content as AI generated.[25] However, those deemed to present “systematic risk” based on various benchmarks measuring size and power, will have to adhere to a much stricter tier of regulations, including strict safety testing and evaluations before releasing products to the market, assessing and mitigating systematic risks, cybersecurity assessments, continued oversight, and the continued reporting of issues.[26]
+
+To administer and enforce the Act, the EU has established an AI Office, which will be accompanied by a scientific panel of independent experts, an AI Board consisting of representatives from EU member states, and an advisory forum for stakeholders.[27] As for the potential penalties, if things stay as currently proposed, penalties could range from €7.5 million or 1% of annual global turnover, all the way to €35 million or 7% of annual global turnover – depending on the size of the company and the nature of the infringement.[28]
+
+What Does This Mean for the Business World?
+
+The EU AI Act has faced backlash from some major European companies – in the form of an open letter signed by 150 executives, from companies such as Airbus, Renault, and Heineken.[29] Their concern is that the EU will too heavily regulate generative AI and foundation models, regardless of their use, which could make the cost of compliance too high and handicap their productivity, and thus competitiveness, compared to other countries like the United States – potentially leading to companies leaving the EU. [30] Thus, in their open letter, these executives suggest the EU should take a more industry-conscious approach.[31] However, Dragoș Tudorache, a member of the European Parliament who led the development of the Act, pushed back at these companies by arguing that they were being too reactionary, as the Act actually gives them exactly what they want: “an industry-led process for defining standards, governance with industry at the table, and a light regulatory regime that asks for transparency. Nothing else.”[32]
+
+However, regardless of this back and forth, the Act is here to stay, so companies will have to prepare themselves to achieve compliance.[33] Companies will likely begin by performing some form of “gap analysis” in which they review where their current systems stand in terms of complying with the Act’s requirements – as some, who are more AI safety focused, may be much closer than others.[34] Furthermore, companies will have to weigh just being compliant versus taking extra steps to go above and beyond to ensure their reputation is protected if they do something technically permitted, but still questionable.[35] In the end, this question will be crucial for businesses utilizing AI because, “[t]he board is ultimately responsible for protecting the organization from short- and long-term ethical, reputational, and regulatory risks.”[36]
+
+Subsequently, it is possible that the EU AI Act serves as another example of the “Brussels Effect” – a term first coined to describe the effect the EU’s General Data Protection Regulation (GDPR) had on regulating data privacy throughout the rest of the world.[37] The Brussels Effect is essentially, “the phenomenon where the markets are transmitting the EU’s regulations to both market participants and regulators outside the EU.”[38] Thus, there are two types of the Brussels Effect.[39] First, the de facto type, in which corporations respond to the EU’s regulations by simply conforming their behavior globally, because it would cost less to just comply across the board, rather than to operate in several different region-specific ways.[40] Therefore, when corporations discuss how to build their compliance systems in response to the EU AI Act, they may just decide to implement these compliance protocols in every jurisdiction in which they operate.
+
+Additionally, the de jure Brussels Effect refers to foreign governments following the path of the EU, with similar regulation, because their multinational corporations will be incentivized to lobby for equivalent regulation back home to avoid being at a disadvantage in relation to their domestic competitors.[41] Globally, we may already be seeing this predicted reaction from foreign governments, such as in the United States, which started off lenient but has begun to respond to increasing calls for regulation.[42] “Furthermore, in the context of the newly established EU-US tech partnership (the Trade and Technology Council), the EU and USA are seeking to develop a mutual understanding on the principles underlining trustworthy and responsible AI.”[43]
+
+Thus, the EU AI Act will be an important item to keep an eye on through its implementation, as it serves as a world first attempt to regulate AI that could have a truly global effect.
+
+*Special thanks to Professor Aniket Kesari for giving me his permission to publish this post on the JCFL blog, as it will be, in parts, excerpts of my larger paper-in-progress for the Law and Technology Survey class.
+
+[1] Spencer Feingold, The European Union’s Artificial Intelligence Act, Explained , World Econ. Forum (June 30, 2023), https://www.weforum.org/agenda/2023/06/european-union-ai-act-explained/.
+
+[2] Luke Carberry Mogan, EU approves AI Act: The global implications for Big Tech , Yahoo! Fin. (Feb. 8, 2024) (Rachelle Akuffo and Akiko Fujita interviewing Alexis Keenan), https://finance.yahoo.com/video/eu-approves-ai-act-global-171057729.html.
+
+[3] Id. ; European Parliament Press Release, Artificial Intelligence Act: deal on comprehensive rules for trustworthy AI (Dec. 9, 2023), https://www.europarl.europa.eu/news/en/press-room/20231206IPR15699/artificial-intelligence-act-deal-on-comprehensive-rules-for-trustworthy-ai.
+
+[4] Carberry Mogan, supra note 3; Elizabeth Gibney, What the EU’s tough AI law means for research and ChatGPT , Nature (Feb. 16, 2024), https://www.nature.com/articles/d41586-024-00497-8; Reid Blackman and Ingrid Vasiliu-Feltes, The EU’s AI Act and How Companies Can Achieve Compliance , Harvard Bus. Review (Feb. 22, 2024), https://hbr.org/2024/02/the-eus-ai-act-and-how-companies-can-achieve-compliance; European Parliament Press Release, Artificial Intelligence Act: MEPs adopt landmark law (Mar. 13, 2024), https://www.europarl.europa.eu/news/en/press-room/20240308IPR19015/artificial-intelligence-act-meps-adopt-landmark-law#:~:text=The%20new%20rules%20ban%20certain,to%20create%20facial%20recognition%20databases.
+
+[5] Clara Hainsdorf, Tim Hickman, Dr. Sylvia Lorenz, & Jenna Rennie, Dawn of the EU’s AI Act: political agreement reached on world’s first comprehensive horizontal AI Regulation , White & Case Tech Newsflash, White & Case LLP (Dec. 14, 2023), https://www.whitecase.com/insight-alert/dawn-eus-ai-act-political-agreement-reached-worlds-first-comprehensive-horizontal-ai; European Parliament Press Release, supra note 5.
+
+[6] Id.
+
+[7] Id.
+
+[8] Tambiama Madiega, EU Legislation in Progress Briefing – Artificial Intelligence Act , European Parliamentary Rsch. Serv. (PE 698.792) (Jun. 2023), https://www.europarl.europa.eu/RegData/etudes/BRIE/2021/698792/EPRS_BRI(2021)698792_EN.pdf.
+
+[9] Id.
+
+[10] European Commission – Shaping Europe’s Digital Future, AI Act , European Commission, https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework ai#:~:text=The%20AI%20act%20will%20be,%2C%20safety%2C%20and%20ethical%20principles.
+
+[11] David A. Simon, Pramode Chiruvolu, Nicola Kerr-Shaw, Eve-Christie Vermynck, & Susanne Werry, Latest Text of EU AI Act Proposes Expanding Obligations for High-Risk and General AI Systems and Banning a Third Category , Skadden Publication, Skadden, Arps, Slate, Meagher & Flom LLP (Feb. 5, 2024), https://www.skadden.com/insights/publications/2024/02/latest-text-of-eu-ai-act-proposes-expanding-obligation; The New EU AI Act – the 10 key things you need to know now , Dentons (Dec. 14, 2023), https://www.dentons.com/en/insights/articles/2023/december/14/the-new-eu-ai-act-the-10-key-things-you-need-to-know-now.
+
+[12] European Parliament Press Release, supra note 5.
+
+[13] Simon et al., supra note 12; European Comm’n, supra note 11.
+
+[14] European Parliament Press Release, EU AI Act: first regulation on artificial intelligence (Jun. 8, 2023, updated Dec. 19, 2023), https://www.europarl.europa.eu/news/en/headlines/society/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence.
+
+[15] Id. ; Simon et al., supra note 12; European Commission, supra note 11.
+
+[16] Feingold, supra note 2.
+
+[17] European Parliament Press Release, supra note 5.
+
+[18] European Parliament Press Release, supra note 15.
+
+[19] European Commission to Establish AI Office , Privacy & Information Security Law Blog, Hunton Andrews Kurth LLP (Feb. 22, 2024), https://www.huntonprivacyblog.com/2024/02/22/european-commission-to-establish-ai-office/.
+
+[20] European Commission, supra note 11; Hainsdorf et al., supra note 6; Simon et al., supra note 12.
+
+[21] European Commission, supra note 11; Hainsdorf et al., supra note 6.
+
+[22] European Commission, supra note 11.
+
+[23] Feingold, supra note 2.
+
+[24] Gibney, supra note 5; Simon et al., supra note 12; European Parliament Press Release, supra note 4.
+
+[25] Gibney, supra note 5; Simon et al., supra note 12; European Parliament Press Release, supra note 5.
+
+[26] Gibney, supra note 5; Simon et al., supra note 12; European Parliament Press Release, supra note 5.
+
+[27] Dentons, supra note 12.
+
+[28] Id. ; Simon et al., supra note 12.
+
+[29] Javier Espinoza, European companies sound alarm over draft AI law , Fin. Times (Jun. 30, 2023), https://www.ft.com/content/9b72a5f4-a6d8-41aa-95b8-c75f0bc92465?accessToken=zwAF_1mupyDQkdObcqX0pthBqtOVuMdfC8kkZQ.MEQCICFSjgLLOFtOcf2uNQeEHuDVNzyB-S4IEQwpNYvRF_FGAiAPR1Y5nZlOajpQQW_fDC0smi3CX2Hox9sePHo7KElMIw&sharetype=gift&token=bfc9af31-bc71-4ddd-91a5-15c2bb2e0b32.
+
+[30] Id.
+
+[31] Id.
+
+[32] Id. (quoting remarks made by Dragoș Tudorache).
+
+[33] Blackman and Vasiliu-Feltes, supra note 5.
+
+[34] Id.
+
+[35] Id.
+
+[36] Id.
+
+[37] Carberry Mogan, supra note 3; Anu Bradford, The Brussels Effect: How the European Union Rules the World (Oxford University Press, online ed. 2019), https://doi-org.fls.idm.oclc.org/10.1093/oso/9780190088583.001.0001.
+
+[38] Bradford, supra note 37 at 1.
+
+[39] Id. at 2.
+
+[40] Id.
+
+[41] Id.
+
+[42] Madiega, supra note 9 at 2.
+
+2024 European Union regulation on artificial intelligence
+
+Regulation European Union regulation Title Artificial Intelligence Act[a] Made by European Parliament and Council History European Parliament vote 13 March 2024 Council Vote 21 May 2024 Preparative texts Commission proposal 2021/206 Current legislation
+
+The Artificial Intelligence Act (AI Act)[a] is a European Union regulation concerning artificial intelligence (AI).
+
+It establishes a common regulatory and legal framework for AI within the European Union (EU).[1] Proposed by the European Commission on 21 April 2021,[2] it passed the European Parliament on 13 March 2024,[3] and was unanimously approved by the EU Council on 21 May 2024.[4] The Act also creates a European Artificial Intelligence Board to promote national cooperation and ensure compliance with the regulation.[5] Like the EU's General Data Protection Regulation, the Act can apply extraterritorially to providers from outside the EU if they have users within the EU.[6]
+
+It covers all types of AI across a broad range of sectors, with exceptions for AI systems used solely for military, national security, research and non-professional purposes.[7] As a piece of product regulation, it does not confer rights on individuals, but regulates the providers of AI systems and entities using AI in a professional context.[6] The draft Act was revised to address the rise in popularity of generative artificial intelligence systems, such as ChatGPT, whose general-purpose capabilities did not fit the main framework.[8] More restrictive regulations are planned for powerful generative AI systems with systemic impact.[9]
+
+The Act classifies non-exempted AI applications by their risk of causing harm. There are four levels—unacceptable, high, limited, minimal—plus an additional category for general-purpose AI. Applications with unacceptable risks are banned. High-risk applications must comply with security, transparency and quality obligations, and undergo conformity assessments. Limited-risk applications only have transparency obligations, while minimal-risk applications are not regulated. For general-purpose AI, transparency requirements are imposed, with additional evaluations for high-capability models.[9][10]
+
+Provisions [ edit ]
+
+Risk categories [ edit ]
+
+There are different risk categories depending on the type of application, with a specific category dedicated to general-purpose generative AI:
+
+Unacceptable risk – AI applications in this category are banned, except for specific exemptions. [11] When no exemption applies, this includes AI applications that manipulate human behaviour, those that use real-time remote biometric identification (such as facial recognition) in public spaces, and those used for social scoring (ranking individuals based on their personal characteristics, socio-economic status or behaviour). [10]
+
+When no exemption applies, this includes AI applications that manipulate human behaviour, those that use real-time remote biometric identification (such as facial recognition) in public spaces, and those used for social scoring (ranking individuals based on their personal characteristics, socio-economic status or behaviour). High-risk – AI applications that are expected to pose significant threats to health, safety, or the fundamental rights of persons. Notably, AI systems used in health, education, recruitment, critical infrastructure management, law enforcement or justice. They are subject to quality, transparency, human oversight and safety obligations, and in some cases require a "Fundamental Rights Impact Assessment" before deployment. [12] They must be evaluated both before they are placed on the market and throughout their life cycle. The list of high-risk applications can be expanded over time, without the need to modify the AI Act itself. [6]
+
+They must be evaluated both before they are placed on the market and throughout their life cycle. The list of high-risk applications can be expanded over time, without the need to modify the AI Act itself. General-purpose AI – Added in 2023, this category includes in particular foundation models like ChatGPT. They are subject to transparency requirements. High-impact general-purpose AI systems which could pose systemic risks (notably those trained using a computational capability exceeding 10 25 FLOPS) [13] must also undergo a thorough evaluation process. [10]
+
+FLOPS) must also undergo a thorough evaluation process. Limited risk – AI systems in this category have transparency obligations, ensuring users are informed that they are interacting with an AI system and allowing them to make informed choices. This category includes, for example, AI applications that make it possible to generate or manipulate images, sound, or videos (like deepfakes). [10] In this category, free models that are open source ( i.e. , whose parameters are publicly available) are not regulated, with some exceptions. [13] [14]
+
+In this category, free models that are open source ( , whose parameters are publicly available) are not regulated, with some exceptions. Minimal risk – This category includes, for example, AI systems used for video games or spam filters. Most AI applications are expected to fall into this category.[15] These systems are not regulated, and Member States cannot impose additional regulations due to maximum harmonisation rules. Existing national laws regarding the design or use of such systems are overridden. However, a voluntary code of conduct is suggested.[16]
+
+Exemptions [ edit ]
+
+Articles 2.3 and 2.6 exempt AI systems used for military or national security purposes or pure scientific research and development from the AI Act.[11]
+
+Article 5.2 bans algorithmic video surveillance only if it is conducted in real time. Exceptions allowing real-time algorithmic video surveillance include policing aims including "a real and present or real and foreseeable threat of terrorist attack".[11]
+
+Recital 31 of the act prohibits "AI systems providing social scoring of natural persons by public or private actors", but allows for "lawful evaluation practices of natural persons that are carried out for a specific purpose in accordance with Union and national law."[17] La Quadrature du Net interprets this exemption as permitting sector-specific social scoring systems,[11] such as the suspicion score used by the French family payments agency Caisse d'allocations familiales.[18][11]
+
+Institutional governance [ edit ]
+
+The AI Act, per the European Parliament Legislative Resolution of 13 March 2024, includes the establishment of various new institutions in Article 64 and the following articles. These institutions are tasked with implementing and enforcing the AI Act. The approach is characterised by a multidimensional combination of centralised and decentralised, as well as public and private enforcement aspects, due to the interaction of various institutions and actors at both EU and national levels.
+
+The following new institutions will be established:[19][20]
+
+AI Office: attached to the European Commission, this authority will coordinate the implementation of the AI Act in all Member States and oversee the compliance of general-purpose AI providers. European Artificial Intelligence Board: composed of one representative from each Member State, the Board will advise and assist the Commission and Member States to facilitate the consistent and effective application of the AI Act. Its tasks include gathering and sharing technical and regulatory expertise, providing recommendations, written opinions, and other advice. Advisory Forum: established to advise and provide technical expertise to the Board and the Commission, this forum will represent a balanced selection of stakeholders, including industry, start-ups, small and medium-sized enterprises, civil society, and academia, ensuring that a broad spectrum of opinions is represented during the implementation and application process. Scientific Panel of Independent Experts: this panel will provide technical advice and input to the AI Office and national authorities, enforce rules for general-purpose AI models (notably by launching qualified alerts of possible risks to the AI Office), and ensure that the rules and implementations of the AI Act correspond to the latest scientific findings.
+
+While the establishment of new institutions is planned at the EU level, Member States will have to designate "national competent authorities".[21] These authorities will be responsible for ensuring the application and implementation of the AI Act, and for conducting "market surveillance".[22] They will verify that AI systems comply with the regulations, notably by checking the proper performance of conformity assessments and by appointing third-parties to carry out external conformity assessments.
+
+Enforcement [ edit ]
+
+The Act regulates the entry to the EU internal market using the New Legislative Framework. It contains essential requirements that all AI systems must meet to access the EU market. These essential requirements are passed on to European Standardisation Organisations, which develop technical standards that further detail these requirements.[23]
+
+The Act mandates that member states establish their own notifying bodies. Conformity assessments are conducted to verify whether AI systems comply with the standards set out in the AI Act.[24] This assessment can be done in two ways: either through self-assessment, where the AI system provider checks conformity, or through third-party conformity assessment, where the notifying body conducts the assessment.[25] Notifying bodies also have the authority to carry out audits to ensure proper conformity assessments.[26]
+
+Criticism has arisen regarding the fact that many high-risk AI systems do not require third-party conformity assessments.[27][28][29] Some commentators argue that independent third-party assessments are necessary for high-risk AI systems to ensure safety before deployment. Legal scholars have suggested that AI systems capable of generating deepfakes for political misinformation or creating non-consensual intimate imagery should be classified as high-risk and subjected to stricter regulation.[30]
+
+Legislative procedure [ edit ]
+
+In February 2020, the European Commission published "White Paper on Artificial Intelligence – A European approach to excellence and trust".[31] In October 2020, debates between EU leaders took place in the European Council. On 21 April 2021, the AI Act was officially proposed by the Commission. On 6 December 2022, the European Council adopted the general orientation, allowing negotiations to begin with the European Parliament. On 9 December 2023, after three days of "marathon" talks, the EU Council and Parliament concluded an agreement.[32]
+
+The law was passed in the European Parliament on 13 March 2024, by a vote of 523 for, 46 against, and 49 abstaining.[33] It was approved by the EU Council on 21 May 2024.[4] It will come into force 20 days after being published in the Official Journal at the end of the legislative term in May.[3][34] After coming into force, there will be a delay before it becomes applicable, which depends on the type of application. This delay is 6 months for bans on "unacceptable risk" AI systems, 9 months for codes of practice, 12 months for general-purpose AI systems, 36 months for some obligations related to "high-risk" AI systems, and 24 months for everything else.[34][33]
+
+Reactions [ edit ]
+
+Experts have argued that though the jurisdiction of the law is European, it could have far-ranging implications for international companies that plan to expand to Europe.[35] Anu Bradford at Columbia has argued that the law provides significant momentum to the world-wide movement to regulate AI technologies.[35]
+
+Amnesty International criticized the AI Act for not completely banning real-time facial recognition, which they said could damage "human rights, civil space and rule of law" in the European Union. It also criticized the absence of ban on exporting AI technologies that can harm human rights.[35]
+
+Some tech watchdogs have argued that there were major loopholes in the law that would allow large tech monopolies to entrench their advantage in AI, or to lobby to weaken rules.[36][37] Some startups welcomed the clarification the act provides, while others argued the additional regulation would make European startups uncompetitive compared to American and Chinese startups.[37] La Quadrature du Net (LQDN) described the AI Act as "tailor-made for the tech industry, European police forces as well as other large bureaucracies eager to automate social control". LQDN described the role of self-regulation and exemptions in the act to render it "largely incapable of standing in the way of the social, political and environmental damage linked to the proliferation of AI".[11]
+
+See also [ edit ]
+
+Notes [ edit ]
+
+a b Officially the Regulation of the European Parliament and of the Council laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828
+
+References [ edit ]
