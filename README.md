@@ -29,7 +29,7 @@ This project supports two local LLM inference servers (Ollama and LM Studio) and
 
 ### Using Groq to Run Inference
 
-1. Create an account on [GroqCloud](https://groqcloud.com) and obtain an API key.
+1. Create an account on [GroqCloud](https://console.groq.com) and obtain an API key.
 2. Store the API key in a `.env` file.
 
 ### Installing LM Studio (for supported HuggingFace Models)
